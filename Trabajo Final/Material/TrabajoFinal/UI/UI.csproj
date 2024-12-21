@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B611F1DE-C1EB-45EE-B013-B0FEFE5CFDF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBackup.Designer.cs">
+      <DependentUpon>FormBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormControlarOrdenesProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormControlarOrdenesProduccion.Designer.cs">
+      <DependentUpon>FormControlarOrdenesProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCumplirOrdenEntrega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCumplirOrdenEntrega.Designer.cs">
+      <DependentUpon>FormCumplirOrdenEntrega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCumplirOrdenProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCumplirOrdenProduccion.Designer.cs">
+      <DependentUpon>FormCumplirOrdenProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetallePedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetallePedido.Designer.cs">
+      <DependentUpon>FormDetallePedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmpleados.Designer.cs">
+      <DependentUpon>FormEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFactura.Designer.cs">
+      <DependentUpon>FormFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFinalizarPedidoMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFinalizarPedidoMaterial.Designer.cs">
+      <DependentUpon>FormFinalizarPedidoMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGenerarOrdenEntrega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGenerarOrdenEntrega.Designer.cs">
+      <DependentUpon>FormGenerarOrdenEntrega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGenerarOrdenProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGenerarOrdenProduccion.Designer.cs">
+      <DependentUpon>FormGenerarOrdenProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGenerarPedidoMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGenerarPedidoMaterial.Designer.cs">
+      <DependentUpon>FormGenerarPedidoMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGestorClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGestorClientes.Designer.cs">
+      <DependentUpon>FormGestorClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGestorUsuariosEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGestorUsuariosEmpleados.Designer.cs">
+      <DependentUpon>FormGestorUsuariosEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoNegocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoNegocio.Designer.cs">
+      <DependentUpon>FormInfoNegocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIngresoFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIngresoFecha.Designer.cs">
+      <DependentUpon>FormIngresoFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogs.Designer.cs">
+      <DependentUpon>FormLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGenerarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGenerarFactura.Designer.cs">
+      <DependentUpon>FormGenerarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelecCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelecCliente.Designer.cs">
+      <DependentUpon>FormSelecCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGestorPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGestorPermisos.Designer.cs">
+      <DependentUpon>FormGestorPermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTomarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTomarPedido.Designer.cs">
+      <DependentUpon>FormTomarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerPedidos.Designer.cs">
+      <DependentUpon>FormVerPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVisualizarStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVisualizarStock.Designer.cs">
+      <DependentUpon>FormVisualizarStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormBackup.resx">
+      <DependentUpon>FormBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormControlarOrdenesProduccion.resx">
+      <DependentUpon>FormControlarOrdenesProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCumplirOrdenEntrega.resx">
+      <DependentUpon>FormCumplirOrdenEntrega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCumplirOrdenProduccion.resx">
+      <DependentUpon>FormCumplirOrdenProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetallePedido.resx">
+      <DependentUpon>FormDetallePedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmpleados.resx">
+      <DependentUpon>FormEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFactura.resx">
+      <DependentUpon>FormFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFinalizarPedidoMaterial.resx">
+      <DependentUpon>FormFinalizarPedidoMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGenerarOrdenEntrega.resx">
+      <DependentUpon>FormGenerarOrdenEntrega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGenerarOrdenProduccion.resx">
+      <DependentUpon>FormGenerarOrdenProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGenerarPedidoMaterial.resx">
+      <DependentUpon>FormGenerarPedidoMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGestorClientes.resx">
+      <DependentUpon>FormGestorClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGestorUsuariosEmpleados.resx">
+      <DependentUpon>FormGestorUsuariosEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoNegocio.resx">
+      <DependentUpon>FormInfoNegocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIngresoFecha.resx">
+      <DependentUpon>FormIngresoFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogs.resx">
+      <DependentUpon>FormLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGenerarFactura.resx">
+      <DependentUpon>FormGenerarFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelecCliente.resx">
+      <DependentUpon>FormSelecCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGestorPermisos.resx">
+      <DependentUpon>FormGestorPermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTomarPedido.resx">
+      <DependentUpon>FormTomarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerPedidos.resx">
+      <DependentUpon>FormVerPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVisualizarStock.resx">
+      <DependentUpon>FormVisualizarStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{342c5c41-e8b6-42ce-b6f2-42031c9942ce}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{fc36b07c-c12b-4f7c-b2c7-047717152024}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,19 @@
+//PREGUNTA 1 
+    //La indireccion es una técnica de programación en la cual se basa en hacer referencia indirecta a los datos usando las direccions de memoria que los contienen.
+    //Se representa: Tipo * puntero_de_tipo; Ejemplo: int * p;
+
+//PREGUNTA 2
+    //Un arreglo bidimensional son tablas de valores en la que cada elemento de un arreglo bidimensional está simultaneamente en una fila y columna. Se los suele llamar matrices.
+
+//PREGUNTA 3
+    //El indice mínimo y máximo de un array de 512 elementos es 0 y 511, respectivamente ya que el primer valor es 0 y el ultimo es n-1.
+
+//PREGUNTA 4
+    //La diferencia que existe entre un compilador y un interprete son:
+        //Un intérprete traduce instrucciones de alto nivel en una forma intermedia para ser ejecutado. En contraste, un compilador, traduce instrucciones de alto nivel directamente en lenguaje de máquina.
+        //El intérprete traduce un programa línea a línea mientras que el compilador traduce el programa entero y luego lo ejecuta
+        //El intérprete detecta si el programa tiene errores y permite su depuración durante el proceso de ejecución, mientras que el compilador espera hasta terminar la compilación de todo el programa para generar un informe de errores.
+
+//PREGUNTA 5
+        //Una función es un bloque de código que realiza alguna operación. Una función puede definir opcionalmente parámetros de entrada que permiten a los llamadores pasar argumentos a la función
+        //Un procedimiento o subrutina es un subalgoritmo que recibiendo o no datos permite devolver varios resultados, un resultado o ninguno. 

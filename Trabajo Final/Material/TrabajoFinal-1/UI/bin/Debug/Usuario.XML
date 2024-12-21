@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Usuarios [
+    <!ELEMENT Usuarios (Usuario*)>
+    <!ATTLIST Usuario UsuarioId ID #REQUIRED>
+    <!ELEMENT Usuario (NombreUsuario, Password, Nombre, Apellido)>
+    <!ELEMENT NombreUsuario (#PCDATA)>
+    <!ELEMENT Password (#PCDATA)>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Apellido (#PCDATA)>
+]>
+<Usuarios>
+  <Usuario UsuarioId="1">
+    <NombreUsuario>admin</NombreUsuario>
+    <Password>fIdUH9Pz71AW4S1BGQDIemBGqOg=</Password>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Borger</Apellido>
+  </Usuario>
+  <Usuario UsuarioId="5">
+    <NombreUsuario>Carlitos</NombreUsuario>
+    <Password>FmUVyvEwinz+OY7P3kw4ZMge67A=</Password>
+    <Nombre>Carlos</Nombre>
+    <Apellido>Pepedon</Apellido>
+  </Usuario>
+</Usuarios>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Bitacoras [
+    <!ELEMENT Bitacoras (Bitacora*)>
+    <!ATTLIST Bitacora BitacoraId ID #REQUIRED>
+    <!ELEMENT Bitacora (Fecha, EmpleadoId, Evento)>
+    <!ELEMENT Fecha (#PCDATA)>
+    <!ELEMENT EmpleadoId (#PCDATA)>
+    <!ELEMENT Evento (#PCDATA)>
+]>
+<Bitacoras>
+  <Bitacora BitacoraId="1">
+    <Fecha>5/3/2024 16:40:04</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="2">
+    <Fecha>5/3/2024 16:41:00</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="3">
+    <Fecha>5/3/2024 16:41:32</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="4">
+    <Fecha>5/3/2024 16:41:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="5">
+    <Fecha>5/3/2024 16:42:08</Fecha>
+    <EmpleadoId>2</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="6">
+    <Fecha>7/3/2024 19:47:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="7">
+    <Fecha>7/3/2024 19:48:24</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="8">
+    <Fecha>7/3/2024 19:49:42</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+</Bitacoras>

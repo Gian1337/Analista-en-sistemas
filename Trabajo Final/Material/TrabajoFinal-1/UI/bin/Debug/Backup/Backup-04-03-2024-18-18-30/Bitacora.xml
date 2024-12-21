@@ -1,0 +1,2016 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Bitacoras [
+    <!ELEMENT Bitacoras (Bitacora*)>
+    <!ATTLIST Bitacora BitacoraId ID #REQUIRED>
+    <!ELEMENT Bitacora (Fecha, EmpleadoId, Evento)>
+    <!ELEMENT Fecha (#PCDATA)>
+    <!ELEMENT EmpleadoId (#PCDATA)>
+    <!ELEMENT Evento (#PCDATA)>
+]>
+<Bitacoras>
+  <Bitacora BitacoraId="1">
+    <Fecha>23/2/2024 17:16:05</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="2">
+    <Fecha>23/2/2024 17:16:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="3">
+    <Fecha>23/2/2024 17:17:27</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="4">
+    <Fecha>23/2/2024 17:20:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="5">
+    <Fecha>23/2/2024 17:23:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="6">
+    <Fecha>23/2/2024 17:24:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="7">
+    <Fecha>23/2/2024 17:25:02</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="8">
+    <Fecha>23/2/2024 17:25:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 23/2/2024 17:16:07</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="9">
+    <Fecha>23/2/2024 17:25:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (pepin)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="10">
+    <Fecha>23/2/2024 17:25:42</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 23/2/2024 17:16:07</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="11">
+    <Fecha>23/2/2024 17:27:16</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="12">
+    <Fecha>23/2/2024 17:27:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Cliente eliminado (Marcos Nahuel Borger)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="13">
+    <Fecha>23/2/2024 17:28:54</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="14">
+    <Fecha>23/2/2024 17:29:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 23/2/2024 17:16:07</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="15">
+    <Fecha>24/2/2024 16:27:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="16">
+    <Fecha>24/2/2024 16:28:56</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (carlos1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="17">
+    <Fecha>24/2/2024 16:29:04</Fecha>
+    <EmpleadoId>6</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="18">
+    <Fecha>24/2/2024 16:29:13</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="19">
+    <Fecha>24/2/2024 16:30:10</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="20">
+    <Fecha>24/2/2024 16:40:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="21">
+    <Fecha>24/2/2024 16:41:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Cliente eliminado (Marcos Nahuel Borger)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="22">
+    <Fecha>24/2/2024 16:41:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 23/2/2024 17:16:07</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="23">
+    <Fecha>24/2/2024 16:42:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="24">
+    <Fecha>24/2/2024 16:44:10</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="25">
+    <Fecha>24/2/2024 16:44:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="26">
+    <Fecha>24/2/2024 16:45:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Cliente eliminado (Marcos Nahuel Borger)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="27">
+    <Fecha>24/2/2024 16:45:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 23/2/2024 17:16:07</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="28">
+    <Fecha>24/2/2024 16:45:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 23/2/2024 17:16:07</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="29">
+    <Fecha>24/2/2024 16:45:54</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="30">
+    <Fecha>24/2/2024 16:47:37</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="31">
+    <Fecha>24/2/2024 16:51:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="32">
+    <Fecha>24/2/2024 16:52:27</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Operario retirado al usuario Marcos</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="33">
+    <Fecha>24/2/2024 16:52:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Despachador retirado al usuario Marcos</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="34">
+    <Fecha>24/2/2024 16:52:29</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Vendedor asignado al usuario Marcos</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="35">
+    <Fecha>24/2/2024 16:54:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="36">
+    <Fecha>24/2/2024 16:54:33</Fecha>
+    <EmpleadoId>2</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="37">
+    <Fecha>24/2/2024 16:56:34</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="38">
+    <Fecha>24/2/2024 16:57:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Orden de produccion N°1 generada</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="39">
+    <Fecha>24/2/2024 16:59:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="40">
+    <Fecha>24/2/2024 17:01:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="41">
+    <Fecha>24/2/2024 17:01:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="42">
+    <Fecha>24/2/2024 17:05:40</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="43">
+    <Fecha>24/2/2024 17:07:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="44">
+    <Fecha>24/2/2024 17:10:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="45">
+    <Fecha>24/2/2024 17:12:15</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="46">
+    <Fecha>24/2/2024 17:12:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Orden de produccion N°2 generada</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="47">
+    <Fecha>24/2/2024 17:14:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="48">
+    <Fecha>24/2/2024 17:15:58</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="49">
+    <Fecha>24/2/2024 17:16:44</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Pedido de material N°1 finalizado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="50">
+    <Fecha>24/2/2024 17:18:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="51">
+    <Fecha>24/2/2024 17:19:05</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (carlos)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="52">
+    <Fecha>24/2/2024 17:19:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (carlos)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="53">
+    <Fecha>24/2/2024 17:19:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (carlos)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="54">
+    <Fecha>24/2/2024 17:20:06</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="55">
+    <Fecha>24/2/2024 17:20:30</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Orden de produccion finalizada N°1</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="56">
+    <Fecha>24/2/2024 17:20:42</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Orden de produccion finalizada N°2</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="57">
+    <Fecha>24/2/2024 17:22:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="58">
+    <Fecha>24/2/2024 17:23:17</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="59">
+    <Fecha>24/2/2024 17:23:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="60">
+    <Fecha>24/2/2024 17:24:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="61">
+    <Fecha>24/2/2024 17:24:20</Fecha>
+    <EmpleadoId>6</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="62">
+    <Fecha>24/2/2024 17:24:31</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="63">
+    <Fecha>24/2/2024 17:24:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario prueba</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="64">
+    <Fecha>24/2/2024 17:24:53</Fecha>
+    <EmpleadoId>6</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="65">
+    <Fecha>24/2/2024 17:25:03</Fecha>
+    <EmpleadoId>6</EmpleadoId>
+    <Evento>Restore Backup 24/2/2024 17:23:33</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="66">
+    <Fecha>24/2/2024 17:25:56</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="67">
+    <Fecha>24/2/2024 17:35:05</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="68">
+    <Fecha>24/2/2024 17:35:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="69">
+    <Fecha>24/2/2024 17:37:29</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="70">
+    <Fecha>24/2/2024 17:37:40</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="71">
+    <Fecha>24/2/2024 17:38:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 24/2/2024 17:37:40</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="72">
+    <Fecha>27/2/2024 16:03:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="73">
+    <Fecha>27/2/2024 16:05:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="74">
+    <Fecha>27/2/2024 16:06:58</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="75">
+    <Fecha>27/2/2024 16:07:19</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (josegomez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="76">
+    <Fecha>27/2/2024 16:09:02</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="77">
+    <Fecha>27/2/2024 16:21:31</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="78">
+    <Fecha>27/2/2024 16:21:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="79">
+    <Fecha>27/2/2024 16:22:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="80">
+    <Fecha>27/2/2024 16:22:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="81">
+    <Fecha>27/2/2024 16:24:05</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="82">
+    <Fecha>27/2/2024 16:24:21</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="83">
+    <Fecha>27/2/2024 16:24:21</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Cambio de nombre de usuario (prueba -&gt; prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="84">
+    <Fecha>27/2/2024 16:24:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="85">
+    <Fecha>27/2/2024 16:24:37</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="86">
+    <Fecha>27/2/2024 16:26:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="87">
+    <Fecha>27/2/2024 16:26:47</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="88">
+    <Fecha>27/2/2024 16:26:54</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (josegomez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="89">
+    <Fecha>27/2/2024 16:27:08</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (Marcos)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="90">
+    <Fecha>27/2/2024 16:27:34</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="91">
+    <Fecha>27/2/2024 16:27:50</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="92">
+    <Fecha>27/2/2024 16:27:50</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Cambio de nombre de usuario (prueba -&gt; prueba1)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="93">
+    <Fecha>27/2/2024 16:28:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="94">
+    <Fecha>27/2/2024 16:29:43</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="95">
+    <Fecha>27/2/2024 16:29:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="96">
+    <Fecha>27/2/2024 16:30:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="97">
+    <Fecha>27/2/2024 16:30:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="98">
+    <Fecha>27/2/2024 16:32:35</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="99">
+    <Fecha>27/2/2024 16:33:18</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="100">
+    <Fecha>27/2/2024 16:33:35</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (prueba)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="101">
+    <Fecha>27/2/2024 16:59:55</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="102">
+    <Fecha>27/2/2024 17:01:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="103">
+    <Fecha>28/2/2024 16:38:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="104">
+    <Fecha>28/2/2024 16:40:21</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="105">
+    <Fecha>28/2/2024 16:41:04</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (josegomez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="106">
+    <Fecha>28/2/2024 16:41:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (josegomez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="107">
+    <Fecha>28/2/2024 16:43:17</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="108">
+    <Fecha>28/2/2024 16:43:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="109">
+    <Fecha>28/2/2024 16:45:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="110">
+    <Fecha>28/2/2024 16:50:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="111">
+    <Fecha>28/2/2024 16:50:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (nuevo)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="112">
+    <Fecha>28/2/2024 16:51:01</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario nuevo</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="113">
+    <Fecha>28/2/2024 16:51:09</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="114">
+    <Fecha>29/2/2024 16:52:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="115">
+    <Fecha>29/2/2024 17:07:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="116">
+    <Fecha>29/2/2024 17:07:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="117">
+    <Fecha>29/2/2024 17:10:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="118">
+    <Fecha>29/2/2024 17:13:55</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="119">
+    <Fecha>29/2/2024 17:14:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (nuevo)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="120">
+    <Fecha>29/2/2024 17:14:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Vendedor asignado al usuario nuevo</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="121">
+    <Fecha>29/2/2024 17:14:39</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="122">
+    <Fecha>29/2/2024 17:17:52</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="123">
+    <Fecha>29/2/2024 17:18:58</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="124">
+    <Fecha>29/2/2024 17:19:11</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Cliente modificado (Lucas Muñoz)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="125">
+    <Fecha>29/2/2024 17:20:15</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Nuevo cliente registrado (Jose Gutierrez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="126">
+    <Fecha>29/2/2024 17:20:18</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Cliente eliminado (Jose Gutierrez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="127">
+    <Fecha>29/2/2024 17:21:05</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="128">
+    <Fecha>29/2/2024 17:22:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="129">
+    <Fecha>29/2/2024 17:22:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="130">
+    <Fecha>29/2/2024 17:29:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="131">
+    <Fecha>29/2/2024 17:30:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se genero la orden de entrega N°6</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="132">
+    <Fecha>29/2/2024 17:30:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Orden de entrega n°6 cumplida</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="133">
+    <Fecha>29/2/2024 17:31:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Orden de produccion N°1 generada</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="134">
+    <Fecha>29/2/2024 17:32:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="135">
+    <Fecha>29/2/2024 17:33:13</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Pedido de material N°1 finalizado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="136">
+    <Fecha>29/2/2024 17:35:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="137">
+    <Fecha>29/2/2024 17:37:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (josegomez)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="138">
+    <Fecha>29/2/2024 17:38:30</Fecha>
+    <EmpleadoId>5</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="139">
+    <Fecha>29/2/2024 17:38:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="140">
+    <Fecha>29/2/2024 17:39:08</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="141">
+    <Fecha>29/2/2024 17:39:16</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Orden de produccion finalizada N°1</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="142">
+    <Fecha>29/2/2024 17:39:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="143">
+    <Fecha>29/2/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="144">
+    <Fecha>29/2/2024 17:42:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="145">
+    <Fecha>29/2/2024 17:43:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (nuevo)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="146">
+    <Fecha>29/2/2024 17:43:42</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (hola)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="147">
+    <Fecha>3/3/2024 18:16:16</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="148">
+    <Fecha>3/3/2024 18:17:58</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="149">
+    <Fecha>3/3/2024 18:20:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se genero la orden de entrega N°7</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="150">
+    <Fecha>3/3/2024 18:21:31</Fecha>
+    <EmpleadoId>5</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="151">
+    <Fecha>3/3/2024 18:22:21</Fecha>
+    <EmpleadoId>5</EmpleadoId>
+    <Evento>Orden de entrega n°7 cumplida</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="152">
+    <Fecha>3/3/2024 18:22:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="153">
+    <Fecha>3/3/2024 18:23:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Modifico al usuario (jefe)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="154">
+    <Fecha>3/3/2024 18:23:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Cambio de nombre de usuario (nuevo -&gt; jefe)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="155">
+    <Fecha>3/3/2024 18:23:18</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Vendedor retirado al usuario jefe</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="156">
+    <Fecha>3/3/2024 18:23:19</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Jefe de planta asignado al usuario jefe</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="157">
+    <Fecha>3/3/2024 18:23:35</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="158">
+    <Fecha>3/3/2024 18:24:31</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="159">
+    <Fecha>3/3/2024 18:24:44</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="160">
+    <Fecha>3/3/2024 18:25:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Orden de produccion N°1 generada</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="161">
+    <Fecha>3/3/2024 18:25:21</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="162">
+    <Fecha>3/3/2024 18:27:28</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Pedido de material N°1 finalizado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="163">
+    <Fecha>3/3/2024 18:29:06</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="164">
+    <Fecha>3/3/2024 18:29:34</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="165">
+    <Fecha>3/3/2024 18:30:18</Fecha>
+    <EmpleadoId>3</EmpleadoId>
+    <Evento>Orden de produccion finalizada N°1</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="166">
+    <Fecha>3/3/2024 18:30:26</Fecha>
+    <EmpleadoId>7</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="167">
+    <Fecha>4/3/2024 16:56:42</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="168">
+    <Fecha>4/3/2024 16:57:21</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Registró un nuevo usuario (Profesor)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="169">
+    <Fecha>4/3/2024 16:57:44</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="170">
+    <Fecha>4/3/2024 16:57:54</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="171">
+    <Fecha>4/3/2024 16:58:27</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="172">
+    <Fecha>4/3/2024 16:58:49</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="173">
+    <Fecha>4/3/2024 16:58:50</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="174">
+    <Fecha>4/3/2024 16:58:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="175">
+    <Fecha>4/3/2024 16:58:52</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="176">
+    <Fecha>4/3/2024 16:58:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="177">
+    <Fecha>4/3/2024 16:59:00</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="178">
+    <Fecha>4/3/2024 16:59:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="179">
+    <Fecha>4/3/2024 16:59:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="180">
+    <Fecha>4/3/2024 16:59:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="181">
+    <Fecha>4/3/2024 16:59:20</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="182">
+    <Fecha>4/3/2024 17:01:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Despachador asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="183">
+    <Fecha>4/3/2024 17:01:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Operario asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="184">
+    <Fecha>4/3/2024 17:01:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Jefe de planta asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="185">
+    <Fecha>4/3/2024 17:01:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Vendedor asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="186">
+    <Fecha>4/3/2024 17:01:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="187">
+    <Fecha>4/3/2024 17:01:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="188">
+    <Fecha>4/3/2024 17:01:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Operario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="189">
+    <Fecha>4/3/2024 17:01:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Despachador retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="190">
+    <Fecha>4/3/2024 17:01:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Jefe de planta retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="191">
+    <Fecha>4/3/2024 17:01:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Vendedor retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="192">
+    <Fecha>4/3/2024 17:01:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="193">
+    <Fecha>4/3/2024 17:01:37</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="194">
+    <Fecha>4/3/2024 17:01:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="195">
+    <Fecha>4/3/2024 17:01:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="196">
+    <Fecha>4/3/2024 17:01:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="197">
+    <Fecha>4/3/2024 17:01:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="198">
+    <Fecha>4/3/2024 17:01:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="199">
+    <Fecha>4/3/2024 17:01:45</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="200">
+    <Fecha>4/3/2024 17:01:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="201">
+    <Fecha>4/3/2024 17:01:47</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="202">
+    <Fecha>4/3/2024 17:01:47</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="203">
+    <Fecha>4/3/2024 17:01:47</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="204">
+    <Fecha>4/3/2024 17:01:47</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="205">
+    <Fecha>4/3/2024 17:01:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="206">
+    <Fecha>4/3/2024 17:01:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="207">
+    <Fecha>4/3/2024 17:01:49</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="208">
+    <Fecha>4/3/2024 17:01:49</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Backup asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="209">
+    <Fecha>4/3/2024 17:01:49</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Logs asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="210">
+    <Fecha>4/3/2024 17:01:50</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="211">
+    <Fecha>4/3/2024 17:01:50</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="212">
+    <Fecha>4/3/2024 17:01:50</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Finalizar pedido de material asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="213">
+    <Fecha>4/3/2024 17:01:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver pedidos realizados asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="214">
+    <Fecha>4/3/2024 17:01:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestionar clientes asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="215">
+    <Fecha>4/3/2024 17:01:56</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Logs retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="216">
+    <Fecha>4/3/2024 17:02:14</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="217">
+    <Fecha>4/3/2024 17:04:08</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="218">
+    <Fecha>4/3/2024 17:09:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="219">
+    <Fecha>4/3/2024 17:10:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="220">
+    <Fecha>4/3/2024 17:11:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="221">
+    <Fecha>4/3/2024 17:13:04</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="222">
+    <Fecha>4/3/2024 17:14:20</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="223">
+    <Fecha>4/3/2024 17:14:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 4/3/2024 17:13:04</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="224">
+    <Fecha>4/3/2024 17:16:17</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="225">
+    <Fecha>4/3/2024 17:16:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 4/3/2024 17:13:04</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="226">
+    <Fecha>4/3/2024 17:16:52</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="227">
+    <Fecha>4/3/2024 17:17:08</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="228">
+    <Fecha>4/3/2024 17:17:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="229">
+    <Fecha>4/3/2024 17:17:44</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="230">
+    <Fecha>4/3/2024 17:17:52</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="231">
+    <Fecha>4/3/2024 17:18:00</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 4/3/2024 17:17:44</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="232">
+    <Fecha>4/3/2024 17:34:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="233">
+    <Fecha>4/3/2024 17:34:55</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="234">
+    <Fecha>4/3/2024 17:35:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="235">
+    <Fecha>4/3/2024 17:35:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="236">
+    <Fecha>4/3/2024 17:35:18</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 4/3/2024 17:35:03</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="237">
+    <Fecha>4/3/2024 17:35:45</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="238">
+    <Fecha>4/3/2024 17:35:45</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="239">
+    <Fecha>4/3/2024 17:35:45</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="240">
+    <Fecha>4/3/2024 17:37:54</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="241">
+    <Fecha>4/3/2024 17:38:09</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Generar factura retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="242">
+    <Fecha>4/3/2024 17:38:10</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Generar factura retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="243">
+    <Fecha>4/3/2024 17:38:11</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="244">
+    <Fecha>4/3/2024 17:38:13</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="245">
+    <Fecha>4/3/2024 17:38:14</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="246">
+    <Fecha>4/3/2024 17:38:14</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="247">
+    <Fecha>4/3/2024 17:38:16</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="248">
+    <Fecha>4/3/2024 17:38:18</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="249">
+    <Fecha>4/3/2024 17:38:19</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="250">
+    <Fecha>4/3/2024 17:38:19</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="251">
+    <Fecha>4/3/2024 17:38:20</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="252">
+    <Fecha>4/3/2024 17:38:21</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Vendedor asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="253">
+    <Fecha>4/3/2024 17:38:22</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="254">
+    <Fecha>4/3/2024 17:38:24</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="255">
+    <Fecha>4/3/2024 17:38:25</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Vendedor retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="256">
+    <Fecha>4/3/2024 17:38:26</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="257">
+    <Fecha>4/3/2024 17:38:31</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="258">
+    <Fecha>4/3/2024 17:38:31</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="259">
+    <Fecha>4/3/2024 17:38:31</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="260">
+    <Fecha>4/3/2024 17:38:32</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario admin</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="261">
+    <Fecha>4/3/2024 17:41:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="262">
+    <Fecha>4/3/2024 17:41:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="263">
+    <Fecha>4/3/2024 17:41:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="264">
+    <Fecha>4/3/2024 17:41:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="265">
+    <Fecha>4/3/2024 17:41:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="266">
+    <Fecha>4/3/2024 17:41:39</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="267">
+    <Fecha>4/3/2024 17:41:40</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="268">
+    <Fecha>4/3/2024 17:41:40</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="269">
+    <Fecha>4/3/2024 17:41:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="270">
+    <Fecha>4/3/2024 17:41:41</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="271">
+    <Fecha>4/3/2024 17:41:42</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="272">
+    <Fecha>4/3/2024 17:41:42</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="273">
+    <Fecha>4/3/2024 17:41:43</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="274">
+    <Fecha>4/3/2024 17:41:43</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="275">
+    <Fecha>4/3/2024 17:41:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="276">
+    <Fecha>4/3/2024 17:41:47</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="277">
+    <Fecha>4/3/2024 17:41:49</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="278">
+    <Fecha>4/3/2024 17:41:49</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="279">
+    <Fecha>4/3/2024 17:41:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="280">
+    <Fecha>4/3/2024 17:41:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="281">
+    <Fecha>4/3/2024 17:41:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="282">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="283">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="284">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="285">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="286">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="287">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="288">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="289">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="290">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Backup retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="291">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Logs retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="292">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="293">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="294">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Finalizar pedido de material retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="295">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver pedidos realizados retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="296">
+    <Fecha>4/3/2024 17:41:53</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestionar clientes retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="297">
+    <Fecha>4/3/2024 17:41:57</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="298">
+    <Fecha>4/3/2024 17:41:58</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="299">
+    <Fecha>4/3/2024 17:41:58</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Despachador asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="300">
+    <Fecha>4/3/2024 17:41:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Despachador retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="301">
+    <Fecha>4/3/2024 17:41:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Despachador asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="302">
+    <Fecha>4/3/2024 17:42:01</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="303">
+    <Fecha>4/3/2024 17:42:01</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="304">
+    <Fecha>4/3/2024 17:42:03</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="305">
+    <Fecha>4/3/2024 17:42:05</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="306">
+    <Fecha>4/3/2024 17:42:06</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="307">
+    <Fecha>4/3/2024 17:42:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="308">
+    <Fecha>4/3/2024 17:42:08</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="309">
+    <Fecha>4/3/2024 17:42:09</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="310">
+    <Fecha>4/3/2024 17:42:10</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="311">
+    <Fecha>4/3/2024 17:42:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="312">
+    <Fecha>4/3/2024 17:42:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="313">
+    <Fecha>4/3/2024 17:42:13</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="314">
+    <Fecha>4/3/2024 17:42:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="315">
+    <Fecha>4/3/2024 17:42:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="316">
+    <Fecha>4/3/2024 17:42:15</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="317">
+    <Fecha>4/3/2024 17:42:16</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="318">
+    <Fecha>4/3/2024 17:42:17</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="319">
+    <Fecha>4/3/2024 17:42:17</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="320">
+    <Fecha>4/3/2024 17:42:18</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="321">
+    <Fecha>4/3/2024 17:42:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Despachador retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="322">
+    <Fecha>4/3/2024 17:42:53</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="323">
+    <Fecha>4/3/2024 17:43:07</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="324">
+    <Fecha>4/3/2024 17:43:13</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="325">
+    <Fecha>4/3/2024 17:43:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="326">
+    <Fecha>4/3/2024 17:43:28</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="327">
+    <Fecha>4/3/2024 17:44:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="328">
+    <Fecha>4/3/2024 17:44:45</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="329">
+    <Fecha>4/3/2024 17:44:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="330">
+    <Fecha>4/3/2024 17:44:46</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="331">
+    <Fecha>4/3/2024 17:44:51</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="332">
+    <Fecha>4/3/2024 17:50:15</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="333">
+    <Fecha>4/3/2024 17:56:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="334">
+    <Fecha>4/3/2024 17:56:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="335">
+    <Fecha>4/3/2024 17:56:31</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="336">
+    <Fecha>4/3/2024 17:56:31</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="337">
+    <Fecha>4/3/2024 17:56:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="338">
+    <Fecha>4/3/2024 17:56:32</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="339">
+    <Fecha>4/3/2024 17:56:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="340">
+    <Fecha>4/3/2024 17:56:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="341">
+    <Fecha>4/3/2024 17:56:33</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="342">
+    <Fecha>4/3/2024 17:56:34</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="343">
+    <Fecha>4/3/2024 17:56:34</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Backup asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="344">
+    <Fecha>4/3/2024 17:56:34</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="345">
+    <Fecha>4/3/2024 17:56:35</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Logs asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="346">
+    <Fecha>4/3/2024 17:56:35</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="347">
+    <Fecha>4/3/2024 17:56:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Finalizar pedido de material asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="348">
+    <Fecha>4/3/2024 17:56:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver pedidos realizados asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="349">
+    <Fecha>4/3/2024 17:56:36</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestionar clientes asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="350">
+    <Fecha>4/3/2024 17:56:38</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="351">
+    <Fecha>4/3/2024 17:56:51</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="352">
+    <Fecha>4/3/2024 17:56:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="353">
+    <Fecha>4/3/2024 17:57:08</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="354">
+    <Fecha>4/3/2024 17:57:09</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="355">
+    <Fecha>4/3/2024 17:57:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="356">
+    <Fecha>4/3/2024 17:57:11</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="357">
+    <Fecha>4/3/2024 17:57:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="358">
+    <Fecha>4/3/2024 17:57:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="359">
+    <Fecha>4/3/2024 17:57:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="360">
+    <Fecha>4/3/2024 17:57:14</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="361">
+    <Fecha>4/3/2024 17:57:15</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="362">
+    <Fecha>4/3/2024 17:57:16</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="363">
+    <Fecha>4/3/2024 17:57:16</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="364">
+    <Fecha>4/3/2024 17:59:12</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 4/3/2024 17:35:03</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="365">
+    <Fecha>4/3/2024 17:59:19</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Backup retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="366">
+    <Fecha>4/3/2024 17:59:20</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Backup retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="367">
+    <Fecha>4/3/2024 17:59:21</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="368">
+    <Fecha>4/3/2024 17:59:23</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de usuarios asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="369">
+    <Fecha>4/3/2024 17:59:23</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestor de permisos de usuario asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="370">
+    <Fecha>4/3/2024 17:59:23</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="371">
+    <Fecha>4/3/2024 17:59:24</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Controlar ordenes de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="372">
+    <Fecha>4/3/2024 17:59:24</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Cumplir orden de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="373">
+    <Fecha>4/3/2024 17:59:24</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de entrega asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="374">
+    <Fecha>4/3/2024 17:59:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar factura asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="375">
+    <Fecha>4/3/2024 17:59:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="376">
+    <Fecha>4/3/2024 17:59:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Logs asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="377">
+    <Fecha>4/3/2024 17:59:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Generar orden de produccion asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="378">
+    <Fecha>4/3/2024 17:59:26</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Logs retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="379">
+    <Fecha>4/3/2024 17:59:27</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver información de negocio asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="380">
+    <Fecha>4/3/2024 17:59:27</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Finalizar pedido de material asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="381">
+    <Fecha>4/3/2024 17:59:27</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Ver pedidos realizados asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="382">
+    <Fecha>4/3/2024 17:59:28</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Gestionar clientes asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="383">
+    <Fecha>4/3/2024 17:59:43</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="384">
+    <Fecha>4/3/2024 17:59:45</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Tomar pedido asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="385">
+    <Fecha>4/3/2024 18:00:00</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="386">
+    <Fecha>4/3/2024 18:00:25</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="387">
+    <Fecha>4/3/2024 18:00:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Restore Backup 4/3/2024 17:35:03</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="388">
+    <Fecha>4/3/2024 18:00:43</Fecha>
+    <EmpleadoId>8</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="389">
+    <Fecha>4/3/2024 18:01:59</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="390">
+    <Fecha>4/3/2024 18:04:54</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="391">
+    <Fecha>4/3/2024 18:05:37</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="392">
+    <Fecha>4/3/2024 18:10:01</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Permiso Administrador del sistema retirado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="393">
+    <Fecha>4/3/2024 18:10:02</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Rol Administrador del sistema asignado al usuario Profesor</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="394">
+    <Fecha>4/3/2024 18:10:48</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="395">
+    <Fecha>4/3/2024 18:11:01</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="396">
+    <Fecha>4/3/2024 18:12:01</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="397">
+    <Fecha>4/3/2024 18:15:00</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Se ha loggeado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="398">
+    <Fecha>4/3/2024 18:15:24</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="399">
+    <Fecha>4/3/2024 18:17:02</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo cliente registrado (Juan Wollert)</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="400">
+    <Fecha>4/3/2024 18:17:22</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>Nuevo pedido N° registrado</Evento>
+  </Bitacora>
+  <Bitacora BitacoraId="401">
+    <Fecha>4/3/2024 18:18:30</Fecha>
+    <EmpleadoId>1</EmpleadoId>
+    <Evento>BACKUP DEL SISTEMA</Evento>
+  </Bitacora>
+</Bitacoras>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Clientes [
+    <!ELEMENT Clientes (Cliente*)>
+    <!ATTLIST Cliente ClienteId ID #REQUIRED>
+    <!ELEMENT Cliente (Nombre, Apellido, NroDocumento, TipoDocumento, Direccion, DireccionEntrega, Email, Telefono, RazonSocial)>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Apellido (#PCDATA)>
+    <!ELEMENT NroDocumento (#PCDATA)>
+    <!ELEMENT TipoDocumento (#PCDATA)>
+    <!ELEMENT Direccion (#PCDATA)>
+    <!ELEMENT DireccionEntrega (#PCDATA)>
+    <!ELEMENT Email (#PCDATA)>
+    <!ELEMENT Telefono (#PCDATA)>
+    <!ELEMENT RazonSocial (#PCDATA)>
+]>
+<Clientes>
+  <Cliente ClienteId="1">
+    <Nombre>Carlos</Nombre>
+    <Apellido>Muller</Apellido>
+    <NroDocumento>38900566</NroDocumento>
+    <TipoDocumento>DNI</TipoDocumento>
+    <Direccion>Güemes 500</Direccion>
+    <DireccionEntrega>Güemes 500</DireccionEntrega>
+    <Email>carlitospepedon@gmail.com</Email>
+    <Telefono>3436566555</Telefono>
+    <RazonSocial>Monotributista</RazonSocial>
+  </Cliente>
+  <Cliente ClienteId="2">
+    <Nombre>Marcos Nahuel</Nombre>
+    <Apellido>Borger</Apellido>
+    <NroDocumento>43680078</NroDocumento>
+    <TipoDocumento>DNI</TipoDocumento>
+    <Direccion>Sargento Cabral 722</Direccion>
+    <DireccionEntrega>Sargento Cabral 722</DireccionEntrega>
+    <Email>marcosnahuelborger@gmail.com</Email>
+    <Telefono>3434764012</Telefono>
+    <RazonSocial>Monotributista</RazonSocial>
+  </Cliente>
+  <Cliente ClienteId="3">
+    <Nombre>Ludmila</Nombre>
+    <Apellido>Borger</Apellido>
+    <NroDocumento>46976011</NroDocumento>
+    <TipoDocumento>DNI</TipoDocumento>
+    <Direccion>Sargento Cabral 722</Direccion>
+    <DireccionEntrega>Sargento Cabral 722</DireccionEntrega>
+    <Email>ludmilaeveborger17@gmail.com</Email>
+    <Telefono>3434434036</Telefono>
+    <RazonSocial>Autonomo</RazonSocial>
+  </Cliente>
+  <Cliente ClienteId="4">
+    <Nombre>Lucas</Nombre>
+    <Apellido>Muñoz</Apellido>
+    <NroDocumento>37890499</NroDocumento>
+    <TipoDocumento>DNI</TipoDocumento>
+    <Direccion>Guemes 300</Direccion>
+    <DireccionEntrega>Guemes 300</DireccionEntrega>
+    <Email>lucasm@gmail.com</Email>
+    <Telefono>3435334555</Telefono>
+    <RazonSocial>Autonomo</RazonSocial>
+  </Cliente>
+  <Cliente ClienteId="5">
+    <Nombre>Sabrina</Nombre>
+    <Apellido>Peralta</Apellido>
+    <NroDocumento>30865390</NroDocumento>
+    <TipoDocumento>DNI</TipoDocumento>
+    <Direccion>Sargento Cabral 722</Direccion>
+    <DireccionEntrega>Sargento Cabral 722</DireccionEntrega>
+    <Email>persabrina52@gmail.com</Email>
+    <Telefono>3434599373</Telefono>
+    <RazonSocial>Autonomo</RazonSocial>
+  </Cliente>
+</Clientes>

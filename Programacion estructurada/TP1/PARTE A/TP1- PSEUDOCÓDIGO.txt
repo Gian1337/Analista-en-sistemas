@@ -1,0 +1,26 @@
+Datos de entrada:
+	- Valor crédito (VC)
+	- Cantidad Cuotas (CC)
+	- Valor Cuota (VCU)
+
+Proceso:
+	VCU= VC/CC
+
+SALIDA:
+	VCU
+
+---------------------
+
+
+
+COMIENZO
+	Ingresar 'VALOR CRÉDITO'
+	Leer, VC
+	
+	Ingresar 'CANTIDAD CUOTAS'
+	Leer, CC
+	
+	VCU= VC/CC
+	
+	PRINT 'VCU'
+FIN

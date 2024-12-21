@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Usuario_Permisos [
+    <!ELEMENT Usuario_Permisos (Usuario_Permiso*)>
+    <!ELEMENT Usuario_Permiso (UsuarioId, PermisoId)>
+    <!ELEMENT UsuarioId (#PCDATA)>
+    <!ELEMENT PermisoId (#PCDATA)>
+]>
+<Usuario_Permisos>
+  <Usuario_Permiso>
+    <UsuarioId>1</UsuarioId>
+    <PermisoId>11</PermisoId>
+  </Usuario_Permiso>
+  <Usuario_Permiso>
+    <UsuarioId>4</UsuarioId>
+    <PermisoId>9</PermisoId>
+  </Usuario_Permiso>
+  <Usuario_Permiso>
+    <UsuarioId>3</UsuarioId>
+    <PermisoId>7</PermisoId>
+  </Usuario_Permiso>
+  <Usuario_Permiso>
+    <UsuarioId>6</UsuarioId>
+    <PermisoId>1</PermisoId>
+  </Usuario_Permiso>
+  <Usuario_Permiso>
+    <UsuarioId>2</UsuarioId>
+    <PermisoId>7</PermisoId>
+  </Usuario_Permiso>
+  <Usuario_Permiso>
+    <UsuarioId>2</UsuarioId>
+    <PermisoId>9</PermisoId>
+  </Usuario_Permiso>
+  <Usuario_Permiso>
+    <UsuarioId>5</UsuarioId>
+    <PermisoId>9</PermisoId>
+  </Usuario_Permiso>
+</Usuario_Permisos>

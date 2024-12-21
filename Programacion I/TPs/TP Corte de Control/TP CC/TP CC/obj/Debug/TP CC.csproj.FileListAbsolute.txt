@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\bin\Debug\TP CC.exe.config
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\bin\Debug\TP CC.exe
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\bin\Debug\TP CC.pdb
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP CC.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP CC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP_CC.Form1.resources
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP_CC.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP CC.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP CC.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP CC.exe
+C:\Users\Gianluca\Desktop\TP CC\TP CC\TP CC\obj\Debug\TP CC.pdb

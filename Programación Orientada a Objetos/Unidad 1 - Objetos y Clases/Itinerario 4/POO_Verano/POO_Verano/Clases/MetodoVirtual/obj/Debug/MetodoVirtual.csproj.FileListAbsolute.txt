@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\bin\Debug\MetodoVirtual.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\bin\Debug\MetodoVirtual.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\bin\Debug\MetodoVirtual.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\MetodoVirtual\obj\Debug\MetodoVirtual.pdb

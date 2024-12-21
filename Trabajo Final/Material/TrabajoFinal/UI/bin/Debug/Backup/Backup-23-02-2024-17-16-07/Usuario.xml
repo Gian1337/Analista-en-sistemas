@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Usuarios [
+    <!ELEMENT Usuarios (Usuario*)>
+    <!ATTLIST Usuario UsuarioId ID #REQUIRED>
+    <!ELEMENT Usuario (NombreUsuario, Password, Nombre, Apellido, Sector)>
+    <!ELEMENT NombreUsuario (#PCDATA)>
+    <!ELEMENT Password (#PCDATA)>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Apellido (#PCDATA)>
+    <!ELEMENT Sector (#PCDATA)>
+]>
+<Usuarios>
+  <Usuario UsuarioId="1">
+    <NombreUsuario>admin</NombreUsuario>
+    <Password>MU8Qn8Oz3FM=</Password>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Borger</Apellido>
+    <Sector></Sector>
+  </Usuario>
+  <Usuario UsuarioId="2">
+    <NombreUsuario>Marcos</NombreUsuario>
+    <Password>Wl+Yy0oBkIJ7TiayfLTMfA==</Password>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Borger</Apellido>
+    <Sector>Ventas</Sector>
+  </Usuario>
+  <Usuario UsuarioId="3">
+    <NombreUsuario>carlos</NombreUsuario>
+    <Password>Wl+Yy0oBkIJ7TiayfLTMfA==</Password>
+    <Nombre>Carlos</Nombre>
+    <Apellido>Gomez</Apellido>
+    <Sector>Produccion</Sector>
+  </Usuario>
+  <Usuario UsuarioId="5">
+    <NombreUsuario>josegomez</NombreUsuario>
+    <Password>BZaL5HsU8KKr452DIaTahA==</Password>
+    <Nombre>Jose</Nombre>
+    <Apellido>Gomez</Apellido>
+    <Sector>Despacho</Sector>
+  </Usuario>
+</Usuarios>

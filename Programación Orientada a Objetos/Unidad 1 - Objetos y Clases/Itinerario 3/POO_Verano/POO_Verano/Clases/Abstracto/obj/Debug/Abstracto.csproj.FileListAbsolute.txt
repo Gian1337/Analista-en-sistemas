@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\bin\Debug\Abstracto.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\bin\Debug\Abstracto.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\bin\Debug\Abstracto.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Abstracto\obj\Debug\Abstracto.pdb

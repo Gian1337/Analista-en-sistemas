@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Estados [
+    <!ELEMENT Estados (Estado*)>
+    <!ATTLIST Estado EstadoId ID #REQUIRED>
+    <!ELEMENT Estado (Tipo)>
+    <!ELEMENT Tipo (#PCDATA)>
+]>
+<Estados>
+    <Estado EstadoId="1">
+        <Tipo>En espera</Tipo>
+    </Estado>
+    <Estado EstadoId="2">
+        <Tipo>Listo para entregar</Tipo>
+    </Estado>
+    <Estado EstadoId="3">
+        <Tipo>En camino</Tipo>
+    </Estado>
+    <Estado EstadoId="4">
+        <Tipo>Finalizado</Tipo>
+    </Estado>
+</Estados>

@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\bin\Debug\Inter_IComparer.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\bin\Debug\Inter_IComparer.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\bin\Debug\Inter_IComparer.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IComparer\obj\Debug\Inter_IComparer.pdb

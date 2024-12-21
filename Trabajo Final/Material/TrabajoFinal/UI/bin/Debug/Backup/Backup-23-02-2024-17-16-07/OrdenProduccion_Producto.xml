@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE OrdenesProduccion_Productos [
+    <!ELEMENT OrdenesProduccion_Productos (OrdenProduccion_Producto*)>
+    <!ATTLIST OrdenProduccion_Producto OrdenProduccion_ProductoId ID #REQUIRED>
+    <!ELEMENT OrdenProduccion_Producto (OrdenProduccionId, ProductoId, Cantidad)>
+    <!ELEMENT OrdenProduccionId (#PCDATA)>
+    <!ELEMENT ProductoId (#PCDATA)>
+    <!ELEMENT Cantidad (#PCDATA)>
+]>
+<OrdenesProduccion_Productos />

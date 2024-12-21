@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1 - Integrador.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1 - Integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1___Integrador.Form1.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1___Integrador.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1 - Integrador.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1 - Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\bin\Debug\TP1 - Integrador.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\bin\Debug\TP1 - Integrador.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\bin\Debug\TP1 - Integrador.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1 - Integrador.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\TP1 - Integrador\TP1 - Integrador\obj\Debug\TP1 - Integrador.pdb

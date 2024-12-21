@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\bin\Debug\Interfaz_Icomparer.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\bin\Debug\Interfaz_Icomparer.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\bin\Debug\Interfaz_Icomparer.pdb
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Interfaz_Icomparer\obj\Debug\Interfaz_Icomparer.pdb

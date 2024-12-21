@@ -1,0 +1,39 @@
+Datos de entrada:
+	- Valor_hora
+	- Valor_hora2 
+	- Cantidad_horas
+	- Monto_total
+	- Opcion
+
+
+---------------------
+
+
+
+COMIENZO
+
+	Ingresar 'TIPO MODALIDAD'
+	Leer, OPCION
+	
+	MIENTRAS (OPCION !=3)
+		Si OPCION == 3
+			MOSTRAR "HA SALIDO DEL PROGRAMA"
+			BREAK;
+
+		Ingresar "CANTIDAD_HORAS"
+		Leer "Cantidad_horas"
+
+		Si OPCION == 1
+			MONTO_TOTAL=VALOR_HORA*CANTIDAD_HORAS;
+			MOSTRAR "MONTO_TOTAL"
+			MOSTRAR "CANTIDAD_HORAS*2"
+		
+		Si OPCION == 2
+			MONTO_TOTAL=VALOR_HORA2*CANTIDAD_HORAS;
+			MOSTRAR "MONTO_TOTAL"
+			MOSTRAR "CANTIDAD_HORAS*2"
+	
+		Ingresar 'TIPO MODALIDAD'
+		Leer, OPCION
+	
+FIN

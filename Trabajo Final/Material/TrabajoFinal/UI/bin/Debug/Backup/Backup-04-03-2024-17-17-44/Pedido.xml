@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Pedidos [
+    <!ELEMENT Pedidos (Pedido*)>
+    <!ATTLIST Pedido PedidoId ID #REQUIRED>
+    <!ELEMENT Pedido (NumeroPedido, ClienteId, Fecha, ImporteTotal, EstadoId, FacturaCompraId)>
+    <!ELEMENT NumeroPedido (#PCDATA)>
+    <!ELEMENT ClienteId (#PCDATA)>
+    <!ELEMENT Fecha (#PCDATA)>
+    <!ELEMENT ImporteTotal (#PCDATA)>
+    <!ELEMENT EstadoId (#PCDATA)>
+    <!ELEMENT FacturaCompraId (#PCDATA)>
+]>
+<Pedidos>
+  <Pedido PedidoId="1">
+    <NumeroPedido>P1</NumeroPedido>
+    <ClienteId>3</ClienteId>
+    <Fecha>01/11/2023 0:00:00</Fecha>
+    <ImporteTotal>21054</ImporteTotal>
+    <EstadoId>4</EstadoId>
+    <FacturaId>1</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="2">
+    <NumeroPedido>P2</NumeroPedido>
+    <ClienteId>2</ClienteId>
+    <Fecha>01/11/2023 0:00:00</Fecha>
+    <ImporteTotal>7260</ImporteTotal>
+    <EstadoId>4</EstadoId>
+    <FacturaId>4</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="3">
+    <NumeroPedido>P3</NumeroPedido>
+    <ClienteId>1</ClienteId>
+    <Fecha>01/11/2023 0:00:00</Fecha>
+    <ImporteTotal>13794</ImporteTotal>
+    <EstadoId>4</EstadoId>
+    <FacturaId>2</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="4">
+    <NumeroPedido>P4</NumeroPedido>
+    <ClienteId>3</ClienteId>
+    <Fecha>02/11/2023 0:00:00</Fecha>
+    <ImporteTotal>5808</ImporteTotal>
+    <EstadoId>4</EstadoId>
+    <FacturaId>3</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="5">
+    <NumeroPedido>P5</NumeroPedido>
+    <ClienteId>2</ClienteId>
+    <Fecha>22/11/2023 0:00:00</Fecha>
+    <ImporteTotal>8712</ImporteTotal>
+    <EstadoId>3</EstadoId>
+    <FacturaId>5</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="6">
+    <NumeroPedido>P6</NumeroPedido>
+    <ClienteId>1</ClienteId>
+    <Fecha>23/11/2023 00:00:00</Fecha>
+    <ImporteTotal>35090</ImporteTotal>
+    <EstadoId>4</EstadoId>
+    <FacturaId>7</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="7">
+    <NumeroPedido>P7</NumeroPedido>
+    <ClienteId>4</ClienteId>
+    <Fecha>24/11/2023 00:00:00</Fecha>
+    <ImporteTotal>35090</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>8</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="8">
+    <NumeroPedido>P8</NumeroPedido>
+    <ClienteId>4</ClienteId>
+    <Fecha>22/2/2024 00:00:00</Fecha>
+    <ImporteTotal>2904</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>6</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="9">
+    <NumeroPedido>P9</NumeroPedido>
+    <ClienteId>1</ClienteId>
+    <Fecha>24/2/2024 00:00:00</Fecha>
+    <ImporteTotal>11616</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>9</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="10">
+    <NumeroPedido>P10</NumeroPedido>
+    <ClienteId>3</ClienteId>
+    <Fecha>27/2/2024 00:00:00</Fecha>
+    <ImporteTotal>2904</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>0</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="11">
+    <NumeroPedido>P11</NumeroPedido>
+    <ClienteId>5</ClienteId>
+    <Fecha>29/2/2024 00:00:00</Fecha>
+    <ImporteTotal>5662,8</ImporteTotal>
+    <EstadoId>4</EstadoId>
+    <FacturaId>0</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="12">
+    <NumeroPedido>P12</NumeroPedido>
+    <ClienteId>1</ClienteId>
+    <Fecha>29/2/2024 00:00:00</Fecha>
+    <ImporteTotal>14036</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>10</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="13">
+    <NumeroPedido>P13</NumeroPedido>
+    <ClienteId>3</ClienteId>
+    <Fecha>3/3/2024 00:00:00</Fecha>
+    <ImporteTotal>1452</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>0</FacturaId>
+  </Pedido>
+  <Pedido PedidoId="14">
+    <NumeroPedido>P14</NumeroPedido>
+    <ClienteId>5</ClienteId>
+    <Fecha>3/3/2024 00:00:00</Fecha>
+    <ImporteTotal>13068</ImporteTotal>
+    <EstadoId>2</EstadoId>
+    <FacturaId>0</FacturaId>
+  </Pedido>
+</Pedidos>

@@ -1,0 +1,12 @@
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\ABS\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\ABS\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\ABS\obj\Debug\ABS.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\ABS\obj\Debug\ABS.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\ABS\obj\Debug\ABS.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\ABS\obj\Debug\ABS.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\ABS\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\ABS\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\ABS\obj\Debug\ABS.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\ABS\obj\Debug\ABS.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\ABS\obj\Debug\ABS.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\ABS\obj\Debug\ABS.pdb

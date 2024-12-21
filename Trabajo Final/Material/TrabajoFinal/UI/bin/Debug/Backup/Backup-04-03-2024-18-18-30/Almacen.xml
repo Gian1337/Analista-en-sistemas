@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Almacenes [
+    <!ELEMENT Almacenes (Almacen*)>
+    <!ATTLIST Almacen AlmacenId ID #REQUIRED>
+    <!ELEMENT Almacen (Deposito, Estanteria, Ubicacion)>
+    <!ELEMENT Deposito (#PCDATA)>
+    <!ELEMENT Estanteria (#PCDATA)>
+    <!ELEMENT Ubicacion (#PCDATA)>
+]>
+<Almacenes>
+  <Almacen AlmacenId="1">
+    <Deposito>Deposito 1</Deposito>
+    <Estanteria>15</Estanteria>
+    <Ubicacion>Moreno 200</Ubicacion>
+  </Almacen>
+  <Almacen AlmacenId="2">
+    <Deposito>Deposito 2</Deposito>
+    <Estanteria>1</Estanteria>
+    <Ubicacion>Sargento cabral 1000</Ubicacion>
+  </Almacen>
+</Almacenes>

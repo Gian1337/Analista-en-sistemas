@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\bin\Debug\Herencia_Polimorfismo.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\bin\Debug\Herencia_Polimorfismo.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\bin\Debug\Herencia_Polimorfismo.pdb
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\Objetos\Herencia_Polimorfismo\obj\Debug\Herencia_Polimorfismo.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Empleado_Permisos [
+    <!ELEMENT Empleado_Permisos (Empleado_Permiso*)>
+    <!ELEMENT Empleado_Permiso (EmpleadoId, PermisoId)>
+    <!ELEMENT EmpleadoId (#PCDATA)>
+    <!ELEMENT PermisoId (#PCDATA)>
+]>
+<Empleado_Permisos>
+  <Empleado_Permiso>
+    <EmpleadoId>1</EmpleadoId>
+    <PermisoId>11</PermisoId>
+  </Empleado_Permiso>
+  <Empleado_Permiso>
+    <EmpleadoId>4</EmpleadoId>
+    <PermisoId>9</PermisoId>
+  </Empleado_Permiso>
+  <Empleado_Permiso>
+    <EmpleadoId>3</EmpleadoId>
+    <PermisoId>7</PermisoId>
+  </Empleado_Permiso>
+  <Empleado_Permiso>
+    <EmpleadoId>5</EmpleadoId>
+    <PermisoId>9</PermisoId>
+  </Empleado_Permiso>
+  <Empleado_Permiso>
+    <EmpleadoId>2</EmpleadoId>
+    <PermisoId>1</PermisoId>
+  </Empleado_Permiso>
+  <Empleado_Permiso>
+    <EmpleadoId>7</EmpleadoId>
+    <PermisoId>5</PermisoId>
+  </Empleado_Permiso>
+</Empleado_Permisos>

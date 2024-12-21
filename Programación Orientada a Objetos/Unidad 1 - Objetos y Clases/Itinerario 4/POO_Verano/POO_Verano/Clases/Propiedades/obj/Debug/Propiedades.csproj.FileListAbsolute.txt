@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\bin\Debug\Propiedades.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Clases\Propiedades\obj\Debug\Propiedades.pdb

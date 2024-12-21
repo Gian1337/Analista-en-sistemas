@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Desafio_1
+{
+    public class Persona
+    {
+        List<Auto> la;
+        public Persona() {la=new List<Auto>(); }
+        public Persona(string pDni)
+        {
+            DNI = pDni;
+        }
+        public Persona(string pDNI,string pNombre, string pApellido) : this()
+        {
+            DNI=pDNI;Nombre=pNombre;Apellido= pApellido;
+        }
+        public Persona(Persona pPersona) : this(pPersona.DNI,pPersona.Nombre,pPersona.Apellido)
+        {
+            
+        }
+
+        public string DNI { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+
+        #region Métodos
+
+        public void AgregaAuto(Auto auto)
+        {
+            la.Add(new Auto(auto));
+        }
+
+        public List<Auto> RetornaListaAutos()
+        {
+            return (from a in la select new Auto(a.Patente,a.Marca,a.Modelo,a.Año,a.Precio)).ToList();
+        }
+
+        public int RetornaCantidadAutos()
+        {
+            return la.Count();
+        }
+        #endregion
+
+    }
+}

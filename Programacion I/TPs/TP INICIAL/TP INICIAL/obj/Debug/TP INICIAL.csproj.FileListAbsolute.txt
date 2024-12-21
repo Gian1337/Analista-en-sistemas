@@ -1,0 +1,8 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\bin\Debug\TP INICIAL.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\bin\Debug\TP INICIAL.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\bin\Debug\TP INICIAL.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\obj\Debug\TP INICIAL.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\obj\Debug\TP INICIAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\obj\Debug\TP INICIAL.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\obj\Debug\TP INICIAL.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TP INICIAL\TP INICIAL\obj\Debug\TP INICIAL.pdb

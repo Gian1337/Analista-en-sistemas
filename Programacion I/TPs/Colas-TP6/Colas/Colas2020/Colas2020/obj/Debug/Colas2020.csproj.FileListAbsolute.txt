@@ -1,0 +1,21 @@
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\bin\Debug\Colas2020.exe.config
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\bin\Debug\Colas2020.exe
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\bin\Debug\Colas2020.pdb
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.AssemblyReference.cache
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.Form1.resources
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.Properties.Resources.resources
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.GenerateResource.cache
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.CoreCompileInputs.cache
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.exe
+C:\Personal\2022\UAI\Cuatrimestre 2\Online\Prog 1\TP\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\bin\Debug\Colas2020.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\bin\Debug\Colas2020.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\bin\Debug\Colas2020.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.Form1.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programacion I\TPs\Colas-TP6\Colas\Colas2020\Colas2020\obj\Debug\Colas2020.pdb

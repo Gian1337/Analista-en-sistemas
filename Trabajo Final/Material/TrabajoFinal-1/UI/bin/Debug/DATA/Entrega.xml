@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Entregas [
+    <!ELEMENT Entregas (Entrega*)>
+    <!ATTLIST Entrega EntregaId ID #REQUIRED>
+    <!ELEMENT Entrega (PedidoId, Fecha, Codigo, Estado)>
+    <!ELEMENT PedidoId (#PCDATA)>
+    <!ELEMENT Fecha (#PCDATA)>
+    <!ELEMENT Codigo (#PCDATA)>
+    <!ELEMENT Estado (#PCDATA)>
+]>
+<Entregas>
+  <Entrega EntregaId="1">
+    <Fecha>02/11/2023 11:37:26</Fecha>
+    <Codigo>5CC0826E53</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>2</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="2">
+    <Fecha>02/11/2023 12:10:01</Fecha>
+    <Codigo>D7C74F49ED</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>1</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="3">
+    <Fecha>23/11/2023 0:00:00</Fecha>
+    <Codigo>CC0BA3F802</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>3</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="4">
+    <Fecha>23/11/2023 0:00:00</Fecha>
+    <Codigo>FD3AF931E7</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>4</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="5">
+    <Fecha>23/11/2023 0:00:00</Fecha>
+    <Codigo>4A02107765</Codigo>
+    <Estado>En transito</Estado>
+    <PedidoId>5</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="6">
+    <Fecha>29/2/2024 00:00:00</Fecha>
+    <Codigo>E9EED7CE83</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>6</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="7">
+    <Fecha>3/3/2024 00:00:00</Fecha>
+    <Codigo>AE3EA7F364</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>11</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="8">
+    <Fecha>5/3/2024 00:00:00</Fecha>
+    <Codigo>48F9F81E67</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>7</PedidoId>
+  </Entrega>
+  <Entrega EntregaId="9">
+    <Fecha>5/3/2024 00:00:00</Fecha>
+    <Codigo>4C32C431DC</Codigo>
+    <Estado>Finalizado</Estado>
+    <PedidoId>19</PedidoId>
+  </Entrega>
+</Entregas>

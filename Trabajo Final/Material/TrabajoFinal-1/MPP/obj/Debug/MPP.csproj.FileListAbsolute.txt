@@ -1,0 +1,24 @@
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\bin\Debug\MPP.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\bin\Debug\BE.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\bin\Debug\BE.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\obj\Debug\MPP.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\obj\Debug\MPP.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\MPP.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\MPP.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\BE.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\BE.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\obj\Debug\MPP.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\obj\Debug\MPP.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\obj\Debug\MPP.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\Services.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\MPP\bin\Debug\Services.pdb

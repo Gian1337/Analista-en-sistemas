@@ -1,0 +1,82 @@
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\UI.exe.config
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\UI.exe
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\UI.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormLogin.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.exe
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\BE.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\BLL.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\MPP.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\BE.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\BLL.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\MPP.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\Services.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\bin\Debug\Services.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormGestorPermisos.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormMenu.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormTomarPedido.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormDetallePedido.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormSeleccionCliente.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormGestorClientes.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormGenerarOrdenEntrega.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormIngresoFecha.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormCumplirOrdenEntrega.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormGestorUsuarios.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormBackup.resources
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\UI\obj\Debug\UI.FormLogs.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\UI.exe.config
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\UI.exe
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\UI.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\BE.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\BLL.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\itextsharp.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\Services.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\MPP.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\BE.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\BLL.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\Services.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\itextsharp.xml
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\bin\Debug\MPP.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormBackup.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormControlarOrdenesProduccion.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormCumplirOrdenEntrega.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormCumplirOrdenProduccion.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormDetallePedido.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormEmpleados.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormFactura.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormFinalizarPedidoMaterial.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGenerarOrdenEntrega.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGenerarOrdenProduccion.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGenerarPedidoMaterial.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGestorClientes.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormInfoNegocio.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormIngresoFecha.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormLogs.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGenerarFactura.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormSeleccionCliente.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGestorPermisos.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormLogin.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormMenu.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormTomarPedido.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormVerPedidos.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormVisualizarStock.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.exe
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\UI\obj\Debug\UI.FormGestorUsuariosEmpleados.resources

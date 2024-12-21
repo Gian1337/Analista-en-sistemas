@@ -1,0 +1,11 @@
+Carlos,Perez,10000.0
+Marcos,Borger,45000.5
+Lucas,Roger,34555.0
+Juan,Pepedon,68000.0
+Robert,Rogers,150000.32
+Sabrina,Borger,345222.5 
+Juan,Dure,88000.0
+Camila,Rodriguez,55400.0 
+Carlos,Jimenez,250555.55 
+Maria,Muller,125000.54 
+Jose,Mu�oz,345000.0 

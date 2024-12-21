@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\bin\Debug\Iter_InterfazPropia.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\bin\Debug\Iter_InterfazPropia.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\bin\Debug\Iter_InterfazPropia.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Iter_InterfazPropia\obj\Debug\Iter_InterfazPropia.pdb

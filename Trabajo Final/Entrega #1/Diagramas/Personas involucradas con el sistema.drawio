@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2024-04-09T17:17:27.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NrMw2ZQ8nuECn7v7brVw" version="24.2.3" type="device" pages="2">
+  <diagram name="Gestión Ventas" id="-s1CSuZLqBa6hBrzUk-Y">
+    <mxGraphModel dx="984" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OYs5iFrnPG1fyfL01zf5-1" value="Roles intervientes&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=60;height=40;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="480" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="OYs5iFrnPG1fyfL01zf5-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OYs5iFrnPG1fyfL01zf5-3" value="Administrativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="200" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OYs5iFrnPG1fyfL01zf5-4" value="Distribuidor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OYs5iFrnPG1fyfL01zf5-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="244.5" as="sourcePoint" />
+            <mxPoint x="400" y="244.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYs5iFrnPG1fyfL01zf5-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="244.5" as="sourcePoint" />
+            <mxPoint x="550" y="244.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="THu5BQT_uAfyLU067eo2" name="Gestión Producción">
+    <mxGraphModel dx="984" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

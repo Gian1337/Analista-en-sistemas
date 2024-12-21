@@ -1,0 +1,13 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\MPP.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\MPP.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\Abstraccion.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\BE.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\DAL.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\Abstraccion.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\BE.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\bin\Debug\DAL.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\obj\Debug\MPP.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\obj\Debug\MPP.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\MPP\obj\Debug\MPP.pdb

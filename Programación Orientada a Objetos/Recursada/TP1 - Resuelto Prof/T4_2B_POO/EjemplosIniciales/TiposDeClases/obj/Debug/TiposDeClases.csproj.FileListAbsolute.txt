@@ -1,0 +1,11 @@
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\bin\Debug\TiposDeClases.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\bin\Debug\TiposDeClases.exe
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\bin\Debug\TiposDeClases.pdb
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.exe
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\TiposDeClases\obj\Debug\TiposDeClases.pdb

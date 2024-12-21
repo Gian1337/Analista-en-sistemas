@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Entregas_Productos [
+    <!ELEMENT Entregas_Productos (Entrega_Producto*)>
+    <!ATTLIST Entrega_Producto Entrega_ProductoId ID #REQUIRED>
+    <!ELEMENT Entrega_Producto (EntregaId, ProductoId, Cantidad)>
+    <!ELEMENT EntregaId (#PCDATA)>
+    <!ELEMENT ProductoId (#PCDATA)>
+    <!ELEMENT Cantidad (#PCDATA)>
+]>
+<Entregas_Productos>
+  <Entrega_Producto>
+    <EntregaId>1</EntregaId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>5</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>2</EntregaId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>5</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>2</EntregaId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>5</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>3</EntregaId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>5</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>4</EntregaId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>4</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>5</EntregaId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>6</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>6</EntregaId>
+    <ProductoId>3</ProductoId>
+    <Cantidad>5</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>7</EntregaId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>2</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>7</EntregaId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>1</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>8</EntregaId>
+    <ProductoId>3</ProductoId>
+    <Cantidad>5</Cantidad>
+  </Entrega_Producto>
+  <Entrega_Producto>
+    <EntregaId>9</EntregaId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>4</Cantidad>
+  </Entrega_Producto>
+</Entregas_Productos>

@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\bin\Debug\LinQ.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\bin\Debug\LinQ.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\LinQ\LinQ\obj\Debug\LinQ.pdb

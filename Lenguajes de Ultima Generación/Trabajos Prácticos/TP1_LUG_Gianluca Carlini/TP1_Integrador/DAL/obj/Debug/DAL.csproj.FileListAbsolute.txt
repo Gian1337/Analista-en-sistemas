@@ -1,0 +1,6 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\DAL\bin\Debug\DAL.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\DAL\bin\Debug\DAL.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\DAL\obj\Debug\DAL.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\DAL\obj\Debug\DAL.pdb

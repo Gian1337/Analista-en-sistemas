@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.Form1.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\bin\Debug\ParcialNro1.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\bin\Debug\ParcialNro1.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\bin\Debug\ParcialNro1.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\ParcialNro1\ParcialNro1\obj\Debug\ParcialNro1.pdb

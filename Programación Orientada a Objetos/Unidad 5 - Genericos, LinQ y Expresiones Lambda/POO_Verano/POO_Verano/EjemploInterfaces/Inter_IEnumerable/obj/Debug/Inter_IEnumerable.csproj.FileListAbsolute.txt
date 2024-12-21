@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\bin\Debug\Inter_IEnumerable.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\bin\Debug\Inter_IEnumerable.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\bin\Debug\Inter_IEnumerable.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IEnumerable\obj\Debug\Inter_IEnumerable.pdb

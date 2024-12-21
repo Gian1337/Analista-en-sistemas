@@ -1,0 +1,5 @@
+- grafico que muestre el total de efectores por provincia en el ultimo mes del año 2022
+
+- grafico que muestre el promedio por año de efectores por provincia
+
+- grafico que muestre el total subsidiado por el ministerio por año (se retornan datos no conocidos)

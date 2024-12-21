@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Productos [
+    <!ELEMENT Productos (Producto*)>
+    <!ATTLIST Producto ProductoId ID #REQUIRED>
+    <!ELEMENT Producto (Codigo, Descripcion, Material, Nombre, Precio, Tipo)>
+    <!ELEMENT Codigo (#PCDATA)>
+    <!ELEMENT Descripcion (#PCDATA)>
+    <!ELEMENT Material (#PCDATA)>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Precio (#PCDATA)>
+    <!ELEMENT Tipo (#PCDATA)>
+]>
+<Productos>
+    <Producto ProductoId="1">
+        <Codigo>PROD1</Codigo>
+        <Nombre>Clavos de acero</Nombre>
+        <Descripcion>Clavos de acero de alta calidad para diversas aplicaciones</Descripcion>
+        <Material>Acero</Material>
+        <Tipo>Clavo</Tipo>
+        <Precio>2280</Precio>
+    </Producto>
+    <Producto ProductoId="2">
+        <Codigo>PROD2</Codigo>
+        <Nombre>Arandelas de acero inoxidable</Nombre>
+        <Descripcion>Arandelas de acero inoxidable para su uso en aplicaciones de fijación</Descripcion>
+        <Material>Acero inoxidable</Material>
+        <Tipo>Arandela</Tipo>
+        <Precio>1200</Precio>
+    </Producto>
+    <Producto ProductoId="3">
+        <Codigo>PROD3</Codigo>
+        <Nombre>Cadena de hierro galvanizado</Nombre>
+        <Descripcion>Cadena de hierro galvanizado para diversas aplicaciones de suspensión y fijación</Descripcion>
+        <Material>Hierro galvanizado</Material>
+        <Tipo>Cadena</Tipo>
+        <Precio>5800</Precio>
+    </Producto>
+    <Producto ProductoId="4">
+        <Codigo>MAT4</Codigo>
+        <Nombre>Hierro galvanizado</Nombre>
+        <Descripcion></Descripcion>
+        <Material></Material>
+        <Tipo>Material</Tipo>
+        <Precio>0</Precio>
+    </Producto>
+    <Producto ProductoId="5">
+        <Codigo>MAT5</Codigo>
+        <Nombre>Acero inoxidable</Nombre>
+        <Descripcion></Descripcion>
+        <Material></Material>
+        <Tipo>Material</Tipo>
+        <Precio>0</Precio>
+    </Producto>
+    <Producto ProductoId="6">
+        <Codigo>MAT6</Codigo>
+        <Nombre>Acero</Nombre>
+        <Descripcion></Descripcion>
+        <Material></Material>
+        <Tipo>Material</Tipo>
+        <Precio>0</Precio>
+    </Producto>
+</Productos>

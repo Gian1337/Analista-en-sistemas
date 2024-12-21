@@ -1,0 +1,11 @@
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\bin\Debug\Eventos.exe
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.exe
+C:\Users\Dario Cardacci\source\repos\2023\T4_2B_POO\EjemplosIniciales\Eventos\obj\Debug\Eventos.pdb

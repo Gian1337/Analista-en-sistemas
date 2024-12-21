@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1 - Refactor.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1 - Refactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1___Refactor.Form1.resources
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1___Refactor.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1 - Refactor.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1 - Refactor.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\bin\Debug\TP1 - Refactor.exe.config
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\bin\Debug\TP1 - Refactor.exe
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\bin\Debug\TP1 - Refactor.pdb
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1 - Refactor.exe
+C:\Users\Gianluca\Desktop\TP1 - Refactor\TP1 - Refactor\obj\Debug\TP1 - Refactor.pdb

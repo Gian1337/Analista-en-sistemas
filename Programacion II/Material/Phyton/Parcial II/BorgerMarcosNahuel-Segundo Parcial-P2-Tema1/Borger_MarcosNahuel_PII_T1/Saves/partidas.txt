@@ -1,0 +1,10 @@
+
+09/07/2023 14:39:50, EMPATE
+09/07/2023 14:40:11, Ganador Marcos
+09/07/2023 14:40:24, Ganador Marcos
+09/07/2023 14:41:43, EMPATE
+09/07/2023 14:41:50, EMPATE
+09/07/2023 14:41:58, Ganador Computadora
+09/07/2023 14:46:49, EMPATE
+09/07/2023 14:46:55, Ganador Computadora
+09/07/2023 14:54:10, Ganador Computadora

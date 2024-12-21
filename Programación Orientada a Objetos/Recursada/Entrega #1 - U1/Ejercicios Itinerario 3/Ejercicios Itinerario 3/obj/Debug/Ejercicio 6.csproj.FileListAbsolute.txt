@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\bin\Debug\Ejercicios Itinerario 3.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\bin\Debug\Ejercicios Itinerario 3.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\bin\Debug\Ejercicios Itinerario 3.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicio 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicios_Itinerario_3.Form1.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicios_Itinerario_3.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicio 6.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicios Itinerario 3.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicios Itinerario 3\obj\Debug\Ejercicios Itinerario 3.pdb

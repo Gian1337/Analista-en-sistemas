@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\bin\Debug\Try_Catch.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Try_Catch\Try_Catch\obj\Debug\Try_Catch.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\bin\Debug\Inter_IDisposable.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\bin\Debug\Inter_IDisposable.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\bin\Debug\Inter_IDisposable.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\EjemploInterfaces\Inter_IDisposable\obj\Debug\Inter_IDisposable.pdb

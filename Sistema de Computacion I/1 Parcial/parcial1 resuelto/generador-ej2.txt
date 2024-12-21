@@ -1,0 +1,7 @@
+DNI: 41.655.321
+
+Datos:
+
+-Direccion P: 0010
+-Direccion Q: 0110
+-Direccion R: 1000

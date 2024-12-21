@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\bin\Debug\Genericos.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\bin\Debug\Genericos.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\bin\Debug\Genericos.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Genericos\Genericos\obj\Debug\Genericos.pdb

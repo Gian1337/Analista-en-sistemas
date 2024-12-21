@@ -1,0 +1,32 @@
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\POO 2J ON LINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nico\Desktop\PDFs y CONTENIDO de POO\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\1erParcial.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Parcial 1 Cardacci\EJEMPLO PARCIAL NUMERO 1 HECHO POR CARDACCI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

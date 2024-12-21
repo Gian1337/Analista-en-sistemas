@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Pedidos_Productos [
+    <!ELEMENT Pedidos_Productos (Pedido_Producto*)>
+    <!ATTLIST Pedido_Producto Pedido_ProductoId ID #REQUIRED>
+    <!ELEMENT Pedido_Producto (PedidoId, ProductoId, Cantidad, Precio)>
+    <!ELEMENT PedidoId (#PCDATA)>
+    <!ELEMENT ProductoId (#PCDATA)>
+    <!ELEMENT Cantidad (#PCDATA)>
+    <!ELEMENT Precio (#PCDATA)>    
+]>
+<Pedidos_Productos>
+  <Pedido_Producto>
+    <PedidoId>1</PedidoId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>5</Cantidad>
+    <Precio>1200</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>1</PedidoId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>5</Cantidad>
+    <Precio>2280</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>2</PedidoId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>5</Cantidad>
+    <Precio>1200</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>3</PedidoId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>5</Cantidad>
+    <Precio>2280</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>4</PedidoId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>4</Cantidad>
+    <Precio>1200</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>5</PedidoId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>6</Cantidad>
+    <Precio>1200</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>6</PedidoId>
+    <ProductoId>3</ProductoId>
+    <Cantidad>5</Cantidad>
+    <Precio>5800</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>7</PedidoId>
+    <ProductoId>3</ProductoId>
+    <Cantidad>5</Cantidad>
+    <Precio>5800</Precio>
+  </Pedido_Producto>
+  <Pedido_Producto>
+    <PedidoId>8</PedidoId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>2</Cantidad>
+    <Precio>1200</Precio>
+  </Pedido_Producto>
+</Pedidos_Productos>

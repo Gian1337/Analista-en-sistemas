@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE FacturasCompra [
+    <!ELEMENT FacturasCompra (FacturaCompra*)>
+    <!ATTLIST FacturaCompra FacturaCompraId ID #REQUIRED>
+    <!ELEMENT FacturaCompra (NumeroFactura, Fecha, TipoFactura, Total)>
+    <!ELEMENT NumeroFactura (#PCDATA)>
+    <!ELEMENT Fecha (#PCDATA)>
+    <!ELEMENT TipoFactura (#PCDATA)>
+    <!ELEMENT Total (#PCDATA)>
+]>
+<FacturasCompra>
+  <FacturaCompra FacturaCompraId="1">
+    <NumeroFactura>1</NumeroFactura>
+    <Fecha>07/11/2023 0:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>21054</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="2">
+    <NumeroFactura>2</NumeroFactura>
+    <Fecha>08/11/2023 0:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>13794</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="3">
+    <NumeroFactura>3</NumeroFactura>
+    <Fecha>08/11/2023 0:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>5808</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="4">
+    <NumeroFactura>4</NumeroFactura>
+    <Fecha>08/11/2023 0:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>7260</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="5">
+    <NumeroFactura>5</NumeroFactura>
+    <Fecha>23/11/2023 0:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>8712</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="6">
+    <NumeroFactura>6</NumeroFactura>
+    <Fecha>22/2/2024 00:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>2904</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="7">
+    <NumeroFactura>7</NumeroFactura>
+    <Fecha>22/2/2024 00:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>35090</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="8">
+    <NumeroFactura>8</NumeroFactura>
+    <Fecha>27/2/2024 00:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>35090</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="9">
+    <NumeroFactura>9</NumeroFactura>
+    <Fecha>29/2/2024 00:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>11616</Total>
+  </FacturaCompra>
+  <FacturaCompra FacturaCompraId="10">
+    <NumeroFactura>10</NumeroFactura>
+    <Fecha>3/3/2024 00:00:00</Fecha>
+    <TipoFactura>C</TipoFactura>
+    <Total>14036</Total>
+  </FacturaCompra>
+</FacturasCompra>

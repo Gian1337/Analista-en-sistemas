@@ -1,0 +1,11 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\bin\Debug\Dos_Form.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\bin\Debug\Dos_Form.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\bin\Debug\Dos_Form.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.Form2.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Dos_Form\Dos_Form\obj\Debug\Dos_Form.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE OrdenesProduccion [
+    <!ELEMENT OrdenesProduccion (OrdenProduccion*)>
+    <!ATTLIST OrdenProduccion OrdenProduccionId ID #REQUIRED>
+    <!ELEMENT OrdenProduccion (Numero, Fecha, Cantidad, Lote, Tareas, PedidoMaterialId, EmpleadoId)>
+    <!ELEMENT Numero (#PCDATA)>
+    <!ELEMENT Fecha (#PCDATA)>
+    <!ELEMENT Cantidad (#PCDATA)>
+    <!ELEMENT Lote (#PCDATA)>
+    <!ELEMENT Tareas (#PCDATA)>
+    <!ELEMENT PedidoMaterialId (#PCDATA)>
+    <!ELEMENT EmpleadoId (#PCDATA)>
+]>
+<OrdenesProduccion />

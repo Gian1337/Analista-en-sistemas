@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\FINAL\FINAL\bin\Debug\FINAL.exe.config
+C:\Users\Gianluca\Desktop\FINAL\FINAL\bin\Debug\FINAL.exe
+C:\Users\Gianluca\Desktop\FINAL\FINAL\bin\Debug\FINAL.pdb
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.Form1.resources
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.exe
+C:\Users\Gianluca\Desktop\FINAL\FINAL\obj\Debug\FINAL.pdb

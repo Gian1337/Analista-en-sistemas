@@ -1,0 +1,9 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\bin\Debug\BE.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\bin\Debug\BE.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\bin\Debug\Abstraccion.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\bin\Debug\Abstraccion.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\obj\Debug\BE.dll
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Lenguajes de Ultima Generación\TP1_Integrador\BE\obj\Debug\BE.pdb

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE Permisos [
+    <!ELEMENT Permisos (Permiso*)>
+    <!ATTLIST Permiso PermisoId ID #REQUIRED>
+    <!ELEMENT Permiso (Nombre, Rol)>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Rol (#PCDATA)>
+]>
+<Permisos>
+    <Permiso PermisoId="1">
+        <Nombre>Vendedor</Nombre>
+        <Rol>True</Rol>
+    </Permiso>
+    <Permiso PermisoId="2">
+        <Nombre>Tomar pedido</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="3">
+        <Nombre>Generar factura</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="4">
+        <Nombre>Generar orden de entrega</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="5">
+        <Nombre>Jefe de planta</Nombre>
+        <Rol>True</Rol>
+    </Permiso>
+    <Permiso PermisoId="6">
+        <Nombre>Controlar ordenes de produccion</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="7">
+        <Nombre>Operario</Nombre>
+        <Rol>True</Rol>
+    </Permiso>
+    <Permiso PermisoId="8">
+        <Nombre>Cumplir orden de produccion</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="9">
+        <Nombre>Despachador</Nombre>
+        <Rol>True</Rol>
+    </Permiso>
+    <Permiso PermisoId="10">
+        <Nombre>Cumplir orden de entrega</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="11">
+        <Nombre>Administrador del sistema</Nombre>
+        <Rol>True</Rol>
+    </Permiso>
+    <Permiso PermisoId="12">
+        <Nombre>Gestor de permisos de usuario</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="13">
+        <Nombre>Gestor de usuarios</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="14">
+        <Nombre>Backup</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="15">
+        <Nombre>Logs</Nombre>
+        <Rol>False</Rol>
+    </Permiso>
+    <Permiso PermisoId="16">
+        <Nombre>Generar orden de produccion</Nombre>
+        <Rol>false</Rol>
+    </Permiso>
+    <Permiso PermisoId="17">
+        <Nombre>Ver información de negocio</Nombre>
+        <Rol>false</Rol>
+    </Permiso>
+    <Permiso PermisoId="18">
+        <Nombre>Finalizar pedido de material</Nombre>
+        <Rol>false</Rol>
+    </Permiso>
+    <Permiso PermisoId="19">
+        <Nombre>Ver pedidos realizados</Nombre>
+        <Rol>false</Rol>
+    </Permiso>
+    <Permiso PermisoId="20">
+        <Nombre>Visualizar stock</Nombre>
+        <Rol>false</Rol>
+    </Permiso>
+    <Permiso PermisoId="21">
+        <Nombre>Gestionar clientes</Nombre>
+        <Rol>false</Rol>
+    </Permiso>
+</Permisos>

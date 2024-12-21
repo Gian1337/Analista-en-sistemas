@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PedidoMateriales_Productos [
+    <!ELEMENT PedidoMateriales_Productos (PedidoMateial_Producto*)>
+    <!ATTLIST PedidoMaterial_Producto PedidoMaterial_ProductoId ID #REQUIRED>
+    <!ELEMENT PedidoMaterial_Producto (ProductoId, PedidoMaterialId, Cantidad)>
+    <!ELEMENT ProductoId (#PCDATA)>
+    <!ELEMENT PedidoMaterialId (#PCDATA)>
+    <!ELEMENT Cantidad (#PCDATA)>
+]>
+<PedidoMateriales_Productos />

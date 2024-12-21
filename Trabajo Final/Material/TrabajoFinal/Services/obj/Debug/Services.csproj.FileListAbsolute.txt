@@ -1,0 +1,21 @@
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\Services.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\Services.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\obj\Debug\Services.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\obj\Debug\Services.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\BE.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\BLL.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\ABS.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\MPP.dll
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\BE.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\BLL.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\ABS.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\bin\Debug\MPP.pdb
+C:\Users\Marcos Borger\Desktop\varios\Facultad\Facultad Año 3 - 2° cuatrimestre\TRABAJO FINAL\TP FINAL\Programa\TrabajoFinal\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\Services\bin\Debug\Services.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\Services\bin\Debug\Services.pdb
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\Services\obj\Debug\Services.dll
+C:\Users\Marcos Borger\source\repos\TrabajoFinal\Services\obj\Debug\Services.pdb

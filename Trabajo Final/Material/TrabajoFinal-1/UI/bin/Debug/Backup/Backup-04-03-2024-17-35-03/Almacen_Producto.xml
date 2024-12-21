@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Almacenes_Productos [
+    <!ELEMENT Almacenes_Productos (Almacen_Producto*)>
+    <!ATTLIST Almacen_Producto Almacen_ProductoId ID #REQUIRED>
+    <!ELEMENT Almacen_Producto (AlmacenId, ProductoId, Cantidad, FechaVencimiento, Lote)>
+    <!ELEMENT AlmacenId (#PCDATA)>
+    <!ELEMENT ProductoId (#PCDATA)>
+    <!ELEMENT Cantidad (#PCDATA)>
+    <!ELEMENT FechaVencimiento (#PCDATA)>
+    <!ELEMENT Lote (#PCDATA)>
+]>
+<Almacenes_Productos>
+  <Almacen_Producto Almacen_ProductoId="1">
+    <AlmacenId>1</AlmacenId>
+    <ProductoId>2</ProductoId>
+    <Cantidad>10</Cantidad>
+    <FechaVencimiento></FechaVencimiento>
+    <Lote>240303</Lote>
+  </Almacen_Producto>
+  <Almacen_Producto Almacen_ProductoId="2">
+    <AlmacenId>1</AlmacenId>
+    <ProductoId>1</ProductoId>
+    <Cantidad>9</Cantidad>
+    <FechaVencimiento></FechaVencimiento>
+    <Lote>231027</Lote>
+  </Almacen_Producto>
+  <Almacen_Producto Almacen_ProductoId="3">
+    <AlmacenId>2</AlmacenId>
+    <ProductoId>4</ProductoId>
+    <Cantidad>0</Cantidad>
+    <FechaVencimiento></FechaVencimiento>
+    <Lote>231123</Lote>
+  </Almacen_Producto>
+  <Almacen_Producto Almacen_ProductoId="4">
+    <AlmacenId>2</AlmacenId>
+    <ProductoId>5</ProductoId>
+    <Cantidad>0</Cantidad>
+    <FechaVencimiento></FechaVencimiento>
+    <Lote>240303</Lote>
+  </Almacen_Producto>
+  <Almacen_Producto Almacen_ProductoId="5">
+    <AlmacenId>2</AlmacenId>
+    <ProductoId>6</ProductoId>
+    <Cantidad>10</Cantidad>
+    <FechaVencimiento></FechaVencimiento>
+    <Lote>231027</Lote>
+  </Almacen_Producto>
+  <Almacen_Producto Almacen_ProductoId="6">
+    <AlmacenId>1</AlmacenId>
+    <ProductoId>3</ProductoId>
+    <Cantidad>8</Cantidad>
+    <FechaVencimiento></FechaVencimiento>
+    <Lote>240224</Lote>
+  </Almacen_Producto>
+</Almacenes_Productos>

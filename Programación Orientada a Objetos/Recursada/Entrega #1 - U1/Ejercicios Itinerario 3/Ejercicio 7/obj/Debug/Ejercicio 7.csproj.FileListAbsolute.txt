@@ -1,0 +1,10 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio_7.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Recursada\Entrega #1 - U1\Ejercicio 6\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

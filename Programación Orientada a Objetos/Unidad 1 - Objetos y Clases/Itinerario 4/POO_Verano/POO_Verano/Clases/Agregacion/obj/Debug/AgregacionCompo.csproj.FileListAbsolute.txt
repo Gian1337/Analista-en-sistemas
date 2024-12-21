@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\bin\Debug\Agregacion.exe.config
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\bin\Debug\Agregacion.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\bin\Debug\Agregacion.pdb
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\AgregacionCompo.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\AgregacionCompo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\Agregacion.Form1.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\Agregacion.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\AgregacionCompo.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\AgregacionCompo.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\Agregacion.exe
+C:\Users\Gianluca\Desktop\Sistemas - UAI\Programación Orientada a Objetos\Unidad 1 - Objetos y Clases\Itinerario 4\POO_Verano\POO_Verano\Clases\Agregacion\obj\Debug\Agregacion.pdb

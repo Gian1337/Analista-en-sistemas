@@ -1,0 +1,11 @@
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\bin\Debug\Resol_1P.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\bin\Debug\Resol_1P.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\bin\Debug\Resol_1P.pdb
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.exe
+C:\Users\Dario Cardacci\source\repos\2023\POO_Verano\Resol_1P\Resol_1P\obj\Debug\Resol_1P.pdb
